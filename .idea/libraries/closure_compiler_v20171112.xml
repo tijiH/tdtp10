@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="closure-compiler-v20171112">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/closure-util/.deps/compiler/5eb2c411b449e9f3d879be0f59139cb5b2894c09/closure-compiler-v20171112.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
